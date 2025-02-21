@@ -2,8 +2,6 @@
 
 Hi All, 
 
-I''m Khanh Hoang
-
 This my Machine Learning Project as a student at Ho Chi Minh university of technology
 
 To run this project, I recommend you to use anaconda prompt to run env. This project is for beginner in AI Domain, some command to run this
